@@ -7,17 +7,22 @@ body {
     margin: 10pt
 }
 h1 {
-    font-size: 14pt;
+    font-size: 20pt;
     font-weight: bold;
     color: #0A2647;
 }
 
 h2 {
+    font-size: 14pt;
     font-weight: bold;
     color: #144272
 }
 p {
     margin: 20pt
+}
+
+h3 {
+  font-weight: bold;
 }
 
 img {
@@ -57,6 +62,7 @@ li {
 
 .active {
   background-color: #144272;
+  text-decoration: underline;
 }
 .skip {
   position: absolute;
